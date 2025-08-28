@@ -24,7 +24,7 @@ For the **CLIP encoder**, you can choose the backbone directly when running the 
 
 ```bash
 python CLIP_encoder.py -c <backbone>
-
+````
 Replace <backbone> with the desired model.
 
 ## Models
