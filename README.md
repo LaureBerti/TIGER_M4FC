@@ -30,5 +30,3 @@ Replace <backbone> with the desired model.
 ## Models
 
 This folder contains four models, each ready to use on an embedding file.
-
-If you use the Deep Fusion MLP, you must first select the backbone used with CLIP by modifying the CLIP_BACKBONE variable at line 26 of the script. This ensures consistent file and folder naming.
